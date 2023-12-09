@@ -425,7 +425,7 @@ display: flex;
 .social-box {
     display: block;
 }
-.social-list {
+.social-list-footer {
     display: flex;
         gap: 16px;
 }
